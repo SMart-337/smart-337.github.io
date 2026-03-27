@@ -14,7 +14,6 @@ attributeFormDefault="unqualified">
     <xsd:element name="Address" type="AddressDetails" minOccurs="1" maxOccurs="1" />
 </xsd:sequence>
     <xsd:attribute name="Rating" type="xsd:decimal" use="optional" />
-    <xsd:attribute name="NearestAirport" type="xsd:string" minOccurs="0" maxOccurs="1"/>
 </xsd:complexType >
     <xsd:complexType name="AddressDetails">
         <xsd:sequence>
@@ -24,6 +23,7 @@ attributeFormDefault="unqualified">
             <xsd:element name="State" type="xsd:string" minOccurs="1" maxOccurs="1" />
             <xsd:element name="Zip" type="xsd:string" minOccurs="1" maxOccurs="1" />
         </xsd:sequence>
+        <xsd:attribute name="NearestAirport" type="xsd:string" use="required"/>
 </xsd:complexType>
 
 <xsd:simpleType name="PhoneType">
