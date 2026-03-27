@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<NationalParks xmlns="https://smart-337.github.io" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="https://smart-337.github.io https://smart-337.github.io/NationalParks.xsd" >
+<NationalPark>
+    <Name>
+        Alcatraz Island
+    </Name>
+    <Phone>415-981-7625</Phone>
+    <Address NearestAirport="San Francisco">
+        <Number>Alcatraz Island</Number>
+        <Street>Alcatraz Island</Street>
+        <City>San Francisco</City>
+        <State>CA</State>
+        <Zip>94133</Zip>
+    </Address>
+</NationalPark>
+<NationalPark Rating="4.8">
+    <Name>Zion National Park</Name>
+    <Phone>437-772-3256</Phone>
+    <Address NearestAirport="St. George Regional">
+        <Number>1</Number>
+        <Street>Zion Park Blvd</Street>
+        <City>Springdale</City>
+        <State>UT</State>
+        <Zip>84767</Zip>
+    </Address>
+</NationalPark>
+<NationalPark>
+    <Name>Seqouia &amp; Kings Canyon</Name>
+    <Phone>559-565-3341</Phone>
+    <Address NearestAirport="WoodLake Airport">
+        <Number>47050</Number>
+        <Street>Generals Highway</Street>
+        <City>Three Rivers</City>
+        <State>CA</State>
+        <Zip>93271</Zip>
+    </Address>
+</NationalPark>
+</NationalParks>
