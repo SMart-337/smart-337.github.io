@@ -36,4 +36,81 @@ xsi:schemaLocation="https://smart-337.github.io https://smart-337.github.io/Nati
         <Zip>93271</Zip>
     </Address>
 </NationalPark>
+<NationalPark>
+    <Name>Historic Jamestowne</Name>
+    <Phone>757-898-2410</Phone>
+    <Address NearestAirport="Williamsburg International">
+        <Number>1368</Number>
+        <Street>Colonial Parkway</Street>
+        <City>Jamestown</City>
+        <State>VA</State>
+        <Zip>23081</Zip>
+    </Address>
+</NationalPark>
+<NationalPark Rating="4.9">
+<Name>Yosemite National Park</Name>
+<Phone>209-372-0200</Phone>
+<Address NearestAirport="Mariposa-Yosemite">
+    <Number>N/A</Number>
+    <Street>N/A</Street>
+    <City>Yosemite</City>
+    <State>CA</State>
+    <Zip>95318</Zip>
+</Address>
+</NationalPark>
+<NationalPark>
+    <Name>Redwood</Name>
+    <Phone>707-464-6101</Phone>
+    <Address NearestAirport="Humboldt County">
+        <Number>1111</Number>
+        <Street>Second Street</Street>
+        <City>Crescent City</City>
+        <State>CA</State>
+        <Zip>95531</Zip>
+    </Address>
+</NationalPark>
+<NationalPark>
+    <Name>Chattahoochee River</Name>
+    <Phone>678-538-1200</Phone>
+    <Address NearestAirport="Dekalb-Peachtree">
+        <Number>1978</Number>
+        <Street>Island Ford Parkway</Street>
+        <City>Sandy Springs</City>
+        <State>GA</State>
+        <Zip>30350</Zip>
+    </Address>
+</NationalPark>
+<NationalPark>
+    <Name>Cumberland Island</Name>
+    <Phone>912-882-4336</Phone>
+    <Address NearestAirport="Jacksonville International">
+        <Number>113</Number>
+        <Street>St. MArys St W</Street>
+        <City>St. Marys</City>
+        <State>GA</State>
+        <Zip>31558</Zip>
+    </Address>
+</NationalPark>
+<NationalPark>
+    <Name>Fort Pulaski</Name>
+    <Phone>912-219-4233</Phone>
+    <Address NearestAirport="">
+        <Number>101</Number>
+        <Street>Fort Pulaski Road</Street>
+        <City>Savannah</City>
+        <State>GA</State>
+        <Zip>31410</Zip>
+    </Address>
+</NationalPark>
+<NationalPark>
+    <Name>Everglades</Name>
+    <Phone>305-242-7700</Phone>
+    <Address NearestAirport="Miami International">
+        <Number>40001</Number>
+        <Street>State Road</Street>
+        <City>Homestead</City>
+        <State>FL</State>
+        <Zip>33034</Zip>
+    </Address>
+</NationalPark>
 </NationalParks>
