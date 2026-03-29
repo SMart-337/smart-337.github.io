@@ -73,7 +73,7 @@ xsi:schemaLocation="https://smart-337.github.io https://smart-337.github.io/Nati
 <NationalPark>
     <Name>Chattahoochee River</Name>
     <Phone>678-538-1200</Phone>
-    <Address NearestAirport="">
+    <Address>
         <Number>1978</Number>
         <Street>Island Ford Parkway</Street>
         <City>Sandy Springs</City>
