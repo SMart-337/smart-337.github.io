@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
-<NationalParks xmlns="https://smart-337.github.io" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-xsi:schemaLocation="https://smart-337.github.io https://smart-337.github.io/NationalParks.xsd" >
+<NationalParks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceschemaLocation="https://smart-337.github.io/NationalParks.xsd">
 <NationalPark>
     <Name>
         Alcatraz Island
